@@ -1,0 +1,16 @@
+{
+    "name": "BiteMe.EditorWindowIcon",
+    "rootNamespace": "BiteMe.EditorWindowIcon",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
