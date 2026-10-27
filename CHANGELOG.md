@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.2] - 2026-10-28
+
+- The author is BiteMe Games.
+
 ## [1.0.1] - 2026-10-28
 
 - Package Manager shows the author and links to the documentation, changelog and license.

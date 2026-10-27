@@ -10,13 +10,13 @@ Windows only. Unity 2021.3 or newer.
 In Unity, open **Window ▸ Package Manager**, then **+ ▸ Install package from git URL**, and enter:
 
 ```
-https://github.com/MarnixWyns/unity-editor-window-icon.git#v1.0.1
+https://github.com/MarnixWyns/unity-editor-window-icon.git#v1.0.2
 ```
 
 Or add this line to `Packages/manifest.json`:
 
 ```json
-"com.biteme.editor-window-icon": "https://github.com/MarnixWyns/unity-editor-window-icon.git#v1.0.1"
+"com.biteme.editor-window-icon": "https://github.com/MarnixWyns/unity-editor-window-icon.git#v1.0.2"
 ```
 
 Then set a **Default Icon** in **Project Settings ▸ Player**. The icon updates within a couple of
