@@ -1,9 +1,9 @@
 {
     "name": "com.biteme.editor-window-icon",
     "displayName": "Editor Window Icon",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "unity": "2021.3",
-    "description": "Windows only. Shows the project's Player > Default Icon, badged with the Unity logo, as the editor's window and taskbar icon, so several open editors are easy to tell apart.",
+    "description": "Windows and macOS. Shows the project's Player > Default Icon, badged with the Unity logo, as the editor's taskbar or Dock icon, so several open editors are easy to tell apart.",
     "type": "tool",
     "license": "CC0-1.0",
     "author": {
